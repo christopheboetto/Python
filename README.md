@@ -3,4 +3,4 @@ This repository displays several basic machine learning algorithms. It is meant 
 
 Thanks
 
-## Repository still in construction, by patient I'll be uploading the files shortly
+## Repository still in construction
